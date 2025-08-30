@@ -12,5 +12,5 @@ You can click the Preview link to take a look at your changes.
 --->
 
 
-![wait and watch](https://count.getloli.com/@Dasu-surya?name=Dasu-surya&theme=booru-huggboo&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto)
+![wait and watch](https://count.getloli.com/@Dasu-surya?name=Dasu-surya&theme=booru-jaypee&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto)
 
